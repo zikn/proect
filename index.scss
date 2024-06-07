@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.container {
+   max-width: 1110px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: "Oswald";
+    max-width: 734px;
+    height: 171px;
+    font-size: 64px;
+}
+p {
+    font-family: "Oswald";
+    color: black;
+    max-width: 734px;
+    height: 22px;
+    font-size: 18px;
+}
+
+
+.hero__content {
+    background: #F7F7F7;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.numder {
+    font-family: "Oswald";
+    color: #F7654A;
+    width: 190px;
+    height: 86px;
+    font-size: 72px;
+    font-weight: -600;
+
+}
+.let {
+    font-family: "Oswald";
+    width: 190px;
+    height: 43px;
+    font-size: 36px;
+    margin-top: 25px;
+}
+.bazar {
+    font-family: "Oswald";
+    color: grey;
+    width: 190px;
+    height: 22px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.pro {
+    margin-top: 100px;
+    margin-bottom: 60px;
+    font-family: "Oswald";
+    color: #404149;
+    max-width: 506px;
+    height: 43px;
+    font-size: 36px;
+    
+}
+.arena {
+    font-family: "Oswald";
+    color: #404149;
+    width: 142px;
+    height: 29px;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.op {
+    font-family: "Oswald";
+    color: #999999;
+    max-width: 350px;
+    height: 83px;
+    font-size: 16px;
+}
+.red {
+    background: #F7654A;
+    width: 55px;
+    height: 6px;
+    margin-top: 45px;
+    margin-bottom: 15px;
+}
+.rob__content{
+    display: flex;
+    gap: 30px;
+}
+.cub {
+    background: #F7654A;
+    height: 181px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.stroy {
+    font-family: "Oswald";
+    color: #FFFFFF;
+    max-width: 537px;
+    height: 57px;
+    font-size: 48px;
+}
+.realiz {
+    font-family: "Oswald";
+    color: #FFFFFF;
+    max-width: 562px;
+    height: 29px;
+    font-size: 24px;
+}
+ .zap {
+       margin-left: 935px;
+       cursor: pointer;
+       height: 49px;
+ }
