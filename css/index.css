@@ -6,9 +6,9 @@
 
 h1 {
   font-family: "Oswald";
-  max-width: 734px;
-  height: 171px;
+  font-weight: 600;
   font-size: 64px;
+  text-align: center;
 }
 
 p {
@@ -31,10 +31,8 @@ p {
 .numder {
   font-family: "Oswald";
   color: #F7654A;
-  width: 190px;
-  height: 86px;
   font-size: 72px;
-  font-weight: -600;
+  font-weight: 500;
 }
 
 .let {
@@ -42,7 +40,6 @@ p {
   width: 190px;
   height: 43px;
   font-size: 36px;
-  margin-top: 25px;
 }
 
 .bazar {
@@ -59,9 +56,9 @@ p {
   margin-bottom: 60px;
   font-family: "Oswald";
   color: #404149;
-  max-width: 506px;
-  height: 43px;
+  font-weight: 600;
   font-size: 36px;
+  text-align: center;
 }
 
 .arena {
@@ -75,7 +72,7 @@ p {
 
 .op {
   font-family: "Oswald";
-  color: #999999;
+  color: #404149;
   max-width: 350px;
   height: 83px;
   font-size: 16px;
@@ -121,4 +118,42 @@ p {
   margin-left: 935px;
   cursor: pointer;
   height: 49px;
+}
+
+.sap {
+  font-family: "Oswald";
+  color: #000;
+  font-size: 36px;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 66px;
+}
+
+.group__content {
+  background: #F7F7F7;
+  max-width: 350px;
+  height: 250px;
+}
+
+h2 {
+  color: #000;
+  font-family: "Oswald";
+}
+
+.group__info {
+  margin: auto;
+  text-align: center;
+  font-size: 21px;
+}
+
+.group-img {
+  margin-top: 59px;
+  width: 60px;
+  height: 40px;
+}
+
+.sviz {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
 }/*# sourceMappingURL=index.css.map */
