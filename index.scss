@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 .container {
    max-width: 1110px;
     margin: 0 auto;
@@ -148,4 +148,60 @@ p {
     flex-wrap: wrap;
     gap: 30px;
 }
+
+.brand {
+    margin-top: 150px;
+
+}
+
+.brand__content {
+    display: flex;
+}
+
+.brand__contant{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.brand_img {
+    width: 100%;
+}
+
+.work__info1, .work__info3 {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 40px;
+}
+
+.work__info2, .work__info4 {
+    display: flex;
+    gap: 15px;
+}
+
+.sam {
+    font-family: "Oswald";
+    color: #000;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.text {
+    color:#999999 ;
+    font-family: "Open Sans";
+    max-width: 730px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+                                                                                 
+}
+
+.work-text {
+    color:#F7654A;
+    font-family: "Oswald";
+    font-size: 24px;
+    font-weight: 600;
+}
+
+
  
